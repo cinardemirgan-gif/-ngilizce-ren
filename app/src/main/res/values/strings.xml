@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LingoBuddy</string>
+    <string name="onboarding_question">İlkokul musun, ortaokul musun?</string>
+    <string name="school_primary">İlkokul</string>
+    <string name="school_middle">Ortaokul</string>
+    <string name="home_voice_title">Yapay Zeka ile Sesli Konuşma</string>
+    <string name="home_quiz_title">3 Şıklı Soru Yarışması</string>
+    <string name="back_desc">Geri dön</string>
+    <string name="toggle_theme_desc">Temayı değiştir</string>
+    <string name="mic_button_desc">İngilizce konuşmak için mikrofona bas</string>
+    <string name="send_message_desc">Mesaj gönder</string>
+    <string name="speak_text_desc">Sesli dinle</string>
+</resources>

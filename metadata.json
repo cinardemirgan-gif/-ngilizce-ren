@@ -1,0 +1,6 @@
+{
+  "name": "LingoBuddy",
+  "description": "İlkokul ve ortaokul öğrencileri için yapay zeka destekli İngilizce sesli konuşma ve 3 şıklı soru çözme uygulaması",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
